@@ -1,0 +1,2 @@
+# constraint_like_check_unique_notnull
+all sql implementation included
